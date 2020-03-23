@@ -26,7 +26,7 @@ public class Main {
                 }
             }
         }
-        
+
         for(int i=1;i<=1100;i++) {
             if (anArray[i-1]==0) runModeCounter++;
             else programModeCounter++;
